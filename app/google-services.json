@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "823842128170",
+    "firebase_url": "https://food-zy-default-rtdb.firebaseio.com",
+    "project_id": "food-zy",
+    "storage_bucket": "food-zy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823842128170:android:9e92c701f37da126cf9e53",
+        "android_client_info": {
+          "package_name": "com.example.foodzy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823842128170-vov87mh5mjh97paca5m6bv6ut5g9abda.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodzy",
+            "certificate_hash": "812cfe40905d92ff2c5b4a8b4123722928e34fc4"
+          }
+        },
+        {
+          "client_id": "823842128170-fe0mr0i3l69tb0evjjgfsc9qhpm3con9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCupwc-qFvgzI2xjNpYcBdueAX_MwVw_VA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823842128170-fe0mr0i3l69tb0evjjgfsc9qhpm3con9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

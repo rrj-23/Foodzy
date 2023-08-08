@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Food-zy</string>
+    <string name="let_s_get_you_signed_uppp">Let\'s get you Signed uppp!!</string>
+    <string name="username2"><b>Username</b></string>
+    <string name="enter_phone_number"><b>Enter Phone number</b></string>
+    <string name="enter_mail"><b>Enter mail</b></string>
+    <string name="new_password"><b>New Password</b></string>
+    <string name="male"><b>Male</b></string>
+    <string name="female"><b>Female</b></string>
+    <string name="other"><b>Other</b></string>
+    <string name="submit">Submit</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="forgot_password"><u>Forgot password ?</u></string>
+    <string name="sign_up"><u>Sign up</u></string>
+    <string name="username"><u>Username</u></string>
+    <string name="welcome_back"><u>Welcome Back</u></string>
+    <string name="sign_in">Sign in</string>
+    <string name="verify">Verify</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="get_in"><u>Get in</u></string>
+    <string name="foodzy">Foodzy</string>
+    <string name="what_do_you_want_to_do">What do you want to do?</string>
+    <string name="order">Order</string>
+    <string name="chef">Chef</string>
+    <string name="locate">Locate</string>
+    <string name="car_services">Car Services</string>
+    <string-array name="GENDER">
+        <item>CHOOSE GENDER</item>
+        <item>MALE</item>
+        <item>FEMALE</item>
+        <item>TRANSGENDER</item>
+    </string-array>
+    <string-array name="SQUAD_SIZE">
+        <item>CHOOSE SQUAD SIZE</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>8</item>
+    </string-array>
+    <string name="title_activity_main3">MainActivity3</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+    <string name="nav_open">Open Navigation drawer</string>
+    <string name="nav_close">Close Navigation drawer</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="i_am_here">I am here</string>
+    <string name="provider_failed">Provider Failed</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_track_order">track_order</string>
+    <string name="place_orders">Place Orders</string>
+
+    <string-array name="ROOM_TYPE">
+        <item>CHOOSE ROOM</item>
+        <item>NORMAL (1 BEDDED)</item>
+        <item>DELUXE (1 BEDDED)</item>
+        <item>SUPER DELUXE (1 BEDDED)</item>
+        <item>NORMAL (2 BEDDED)</item>
+        <item>DELUXE (2 BEDDED)</item>
+        <item>SUPER DELUXE (2 BEDDED)</item>
+        <item>HALL (5 BEDDED)</item>
+        <item>HALL (7 BEDDED)</item>
+    </string-array>
+</resources>
